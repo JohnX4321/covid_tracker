@@ -1,0 +1,25 @@
+{
+  "short_name": "Covid_tracker",
+  "name": "Covid Tracker for Karnataka",
+  "icons": [
+    {
+      "src": "thingsenzlogo.jpeg",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "thingsenzlogo.jpeg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "thingsenzlogo.jpeg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

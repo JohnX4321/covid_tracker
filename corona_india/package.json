@@ -1,0 +1,71 @@
+{
+  "name": "cororna_india",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@bumaga/tabs": "^0.2.0",
+    "@juggle/resize-observer": "^3.1.3",
+    "@material-ui/core": "^4.9.7",
+    "@researchgate/react-intersection-observer": "^1.1.3",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.4.1",
+    "chart.js": "^2.9.3",
+    "classnames": "^2.2.6",
+    "countup.js": "^2.0.4",
+    "d3": "^5.15.1",
+    "date-fns": "^2.12.0",
+    "date-fns-tz": "^1.0.10",
+    "deepmerge": "^4.2.2",
+    "express": "^4.17.1",
+    "fast-deep-equal": "^3.1.1",
+    "framer-motion": "^1.10.3",
+    "globe.gl": "^2.8.6",
+    "mongoose": "^5.9.6",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
+    "react-chartjs-2": "^2.9.0",
+    "react-countup": "^4.3.3",
+    "react-dom": "^16.13.1",
+    "react-feather": "^2.0.8",
+    "react-force-graph-2d": "^1.16.0",
+    "react-loading": "^2.0.3",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "react-spinners": "^0.8.1",
+    "react-table": "^7.0.0",
+    "react-table-v6": "^6.8.6",
+    "react-tooltip": "^4.2.5",
+    "react-use": "^14.2.0",
+    "request": "^2.88.2",
+    "topojson": "^3.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
