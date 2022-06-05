@@ -34,6 +34,8 @@ limited and decided to discontinue due to the resources involved for maintainanc
   </tr>
 </table>
 
+## Featured on youtube
+[Youtube Link](https://youtu.be/8O7d-PnmffQ)
 
 ## Dependencies
 [NovelCovid](https://www.npmjs.com/package/novelcovid)
