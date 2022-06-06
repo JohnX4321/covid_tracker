@@ -1,4 +1,4 @@
-# corona_tracker
+# covid19_tracker
 ### Deprecated
 An app to track the covid-19 infections worldwide with India preset and  attached content for Karnataka statistics and links to other reliable website
 for India-specific statistics.
